@@ -1,0 +1,15 @@
+D:\dotnethelloworld\bin\Debug\net7.0\dotnethelloworld.exe
+D:\dotnethelloworld\bin\Debug\net7.0\dotnethelloworld.deps.json
+D:\dotnethelloworld\bin\Debug\net7.0\dotnethelloworld.runtimeconfig.json
+D:\dotnethelloworld\bin\Debug\net7.0\dotnethelloworld.dll
+D:\dotnethelloworld\bin\Debug\net7.0\dotnethelloworld.pdb
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.csproj.AssemblyReference.cache
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.AssemblyInfoInputs.cache
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.AssemblyInfo.cs
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.csproj.CoreCompileInputs.cache
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.dll
+D:\dotnethelloworld\obj\Debug\net7.0\refint\dotnethelloworld.dll
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.pdb
+D:\dotnethelloworld\obj\Debug\net7.0\dotnethelloworld.genruntimeconfig.cache
+D:\dotnethelloworld\obj\Debug\net7.0\ref\dotnethelloworld.dll
